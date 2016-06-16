@@ -6,9 +6,10 @@ This is a node module, to use this, you need to have nodejs installed on your ma
 Git clone this and go to the folder in your terminal then install using npm.
 Install globally so the executable is accessible and usable.
 
-$ git clone https://wonsong82@bitbucket.org/wonsong82/localhost.git
-$ cd localhost
-$ npm install -g .
+
+	$ git clone https://wonsong82@bitbucket.org/wonsong82/localhost.git
+	$ cd localhost
+	$ npm install -g .
 
 ** how to use **
 > to add hosts entry
